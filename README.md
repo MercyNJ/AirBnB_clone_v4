@@ -173,7 +173,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Abdi Ali - Github: 
+Abdi Ali - Github:huska20 
 Mercy Njuguna - Github: https://github.com/MercyNJ
 
 ## License
