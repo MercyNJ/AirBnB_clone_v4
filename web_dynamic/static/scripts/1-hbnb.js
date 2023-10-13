@@ -8,7 +8,7 @@ $(document).ready(function () {
     $('.amenities h4').text(selectedAmenitiesList.join(', '));
   }
 
-  $('.amenity-checkbox').change(function () {
+  $('.amenities li input[type="checkbox"]').change(function () {
     const amenityId = $(this).data('id');
     const amenityName = $(this).data('name');
 
